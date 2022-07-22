@@ -1,0 +1,2 @@
+for x in range (0, 10, 3): #start, stop, step(1 is the default)
+    print(x)
