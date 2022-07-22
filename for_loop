@@ -1,2 +1,8 @@
-for x in range (0, 10, 3): #start, stop, step(1 is the default)
-    print(x)
+from string import ascii_lowercase
+
+
+#for x in range (0, 10, 3): #start, stop, step(1 is the default)
+    #print(x)
+
+for i in ascii_lowercase:
+    print (i)
